@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/luis1919G/parcialGo/parcial/internal/tickets"
+	"github.com/luis1919G/parcialGo/internal/tickets"
 )
 
 const (
